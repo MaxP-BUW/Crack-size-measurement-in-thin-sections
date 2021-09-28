@@ -16,7 +16,7 @@ Used Software:
 - Stream Motion Software (Olympus-SIS) for capturing image, object measurements and classification
 - Trainable Weka Segmentation included in fiji (ImageJ) with trained classifier for segmentation
 
-To get started change the variable img_name in line 20 regarding to the name of your image analysed. Then adjust your image format in line 21. The input image must be binary, 
+To get started change the variable img_name in line 20 regarding to the name of your image you want to analyse. Then adjust your image format in line 21. The input image must be binary, 
 e.g. through segmentation. You can use either tif or btf images. After that run the script. You will get the output in the console for the summarized crack length, mean crack 
 width, max. crack width and min. crack width. Additionally the skeletonized image will be saved. 
 
