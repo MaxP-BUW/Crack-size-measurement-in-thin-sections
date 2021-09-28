@@ -34,7 +34,7 @@ The single steps in the script start at point (4) in the shown workflow (see ima
 ## Requirements
 This script was tested in Python 3.7.
 
-Written by 
+## Written by 
 Max Patzelt
 
 Bauhaus University Weimar, Faculty of Civil Engineering;
