@@ -28,10 +28,10 @@ There are still cracks with just 2 Px width which would be zero. Their values ha
 ## Estimate_crack_width_and_length_of_binary_images-workflowplot.py
 The single steps in the script start at point (4) in the shown workflow (see image), which can be plotted with the 2nd extended script.
 
-##Corresponding Paper
+## Corresponding Paper
 - in review
 
-##Requirements
+## Requirements
 This script was tested in Python 3.7.
 
 Written by 
