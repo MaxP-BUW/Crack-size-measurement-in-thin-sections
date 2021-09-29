@@ -26,13 +26,13 @@ The results of the distance function multiplied by the skeleton are doubled to c
 There are still cracks with just 2 Px width which would be zero. Their values have not been changed.
 
 ## Estimate_crack_width_and_length_of_binary_images-workflowplot.py
-The single steps in the script start at point (4) in the shown workflow (see image), which can be plotted with the 2nd extended script.
+The single steps in the script start at point (4) in the shown workflow (see image), which can be plotted with the 2nd extended script. Previous steps were done in the software mentioned above.
 
 ## Corresponding Paper
 - in review
 
 ## Requirements
-This script was tested in Python 3.7.
+This script was tested in Spyder 5.0.0 (running Python 3.7).
 
 ## Written by 
 Max Patzelt
