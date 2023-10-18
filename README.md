@@ -29,7 +29,8 @@ There are still cracks with just 2 Px width which would be zero. Their values ha
 The single steps in the script start at point (4) in the shown workflow (see image), which can be plotted with the 2nd extended script. Previous steps were done in the software mentioned above.
 
 ## Corresponding Paper
-- in review
+Ptzelt, M.; Erfurt, D.; Ludwig, H.-M. (2022) Quantification of cracks in concrete thin sections considering current methods of image analysis in: Journal of microscopy.
+https://doi.org/10.1111/jmi.13091
 
 ## Requirements
 This script was tested in Spyder 5.0.0 (running Python 3.7).
